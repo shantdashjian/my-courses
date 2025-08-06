@@ -2,7 +2,7 @@
 A collection of courses I taught at [Scrimba](https://scrimba.com/home?coupon=SHANT50), where I teach various topics in web development and AI.
 
 [<img src="images/vite-course-card.png">](https://scrimba.com/intro-to-vite-c03p6pbbdq?coupon=SHANT50)
-[<img src="images/testing-course-card.png">](https://scrimba.com/fullstack-path-c0fullstack/~03ha?coupon=SHANT50)
+[<img src="images/testing-course-card.png">](https://scrimba.com/testing-in-react-c01lu4ca7m?coupon=SHANT50)
 [<img src="images/ai-course-card.png">](https://scrimba.com/claude-ai-c09gsmkso3?coupon=SHANT50)
 
 ## ⚡ Motivation
